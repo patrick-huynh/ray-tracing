@@ -1,2 +1,2 @@
 # Ray Tracing
-A simple ray tracing program.
+A simple ray tracing program in C++.
